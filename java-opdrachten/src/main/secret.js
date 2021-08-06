@@ -6,3 +6,5 @@ aws_secret_access_key=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
 password="test";
 
 password=****
+
+Password="testing_pass"
