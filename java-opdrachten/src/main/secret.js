@@ -1,9 +1,9 @@
 [default]
-aws_access_key_id=AKIAIOSFODNN7EXAMPLE
-aws_secret_access_key=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMPLEKEY
+aws_access_key_id = AKIAXYZDQCEN3CNKWNEL
+aws_secret_access_key = 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
+output = json
 
-
-password="test";
+password="asdl;fkjasdfjnk";
 
 password=****
 
